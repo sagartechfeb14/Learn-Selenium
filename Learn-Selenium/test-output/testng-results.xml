@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28709" started-at="2017-08-09T03:48:27Z" finished-at="2017-08-09T03:48:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28709" started-at="2017-08-09T03:48:27Z" finished-at="2017-08-09T03:48:56Z">
+      <class name="demo1.ZoomInZoomOutDemo">
+        <test-method status="PASS" signature="zoomInZoomOut()[pri:0, instance:demo1.ZoomInZoomOutDemo@482f8f11]" name="zoomInZoomOut" duration-ms="28687" started-at="2017-08-09T09:18:27Z" finished-at="2017-08-09T09:18:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zoomInZoomOut -->
+      </class> <!-- demo1.ZoomInZoomOutDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
